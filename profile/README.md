@@ -33,7 +33,7 @@ Python API adapter example for connecting WebTrit to external VoIP systems and b
 ### [admin-front-end](https://github.com/WebTrit/admin-front-end)
 Web admin interface for managing SIP users and WebTrit backend configuration.
 
-👉 [View all repositories →](https://github.com/WebTrit)
+👉 [View all repositories →](https://github.com/orgs/WebTrit/repositories?type=all)
 
 ---
 
