@@ -44,10 +44,10 @@ Web admin interface for managing SIP users and WebTrit backend configuration.
 ## Technical advantages
 
 - **Complete source access:** Get the full Flutter app, not just SDK components you have to build around  
-- **Cross-platform:** Single codebase runs on iOS, Android, web, and desktop with native performance  
+- **Cross-platform:** Single codebase runs on iOS, Android, web with native performance  
 - **Production-ready backend:** Scalable WebRTC infrastructure that handles signaling, media, and telco integrations  
 - **Flexible integrations:** Works with [Asterisk](https://github.com/asterisk/asterisk), [FreeSWITCH](https://github.com/signalwire/freeswitch), [PortaSwitch](https://www.portaone.com/telecom-products/portaswitch/), and custom SIP systems via REST APIs  
-- **Modern stack:** Flutter + WebRTC with TypeScript backends and React admin interfaces  
+- **Modern stack:** Flutter, WebRTC, Elixir, Python, Vue
 
 ---
 
